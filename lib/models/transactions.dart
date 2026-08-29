@@ -1,0 +1,3 @@
+class transactions {
+  int? id;
+}
