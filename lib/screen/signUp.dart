@@ -18,6 +18,7 @@ class SignupPage extends StatelessWidget {
   TextEditingController pwdController = TextEditingController();
   TextEditingController rePwdController = TextEditingController();
 
+  // ceci est un commentaire !
   Widget _header(BuildContext context) {
     return Column(
       children: [
