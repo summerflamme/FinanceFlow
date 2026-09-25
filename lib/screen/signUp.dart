@@ -19,6 +19,7 @@ class SignupPage extends StatelessWidget {
   TextEditingController rePwdController = TextEditingController();
 
   // ceci est un commentaire !
+  //Ceci est un commentaire de test pour voir si le commit fonctionne correctement
   Widget _header(BuildContext context) {
     return Column(
       children: [
